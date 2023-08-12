@@ -119,18 +119,6 @@
    5.客服后台切换tab拉取在线访客
 
 
-### 项目预览
-
-![Image text](https://gitee.com/taoshihan/go-fly/raw/master/static/images/newintro1.jpg)
-
-![Image text](https://img2020.cnblogs.com/blog/726254/202009/726254-20200902141707515-1201702349.jpg)
-
-![Image text](https://gitee.com/taoshihan/go-fly/raw/master/static/images/newintro2.jpg)
-
-![Image text](https://img2020.cnblogs.com/blog/726254/202009/726254-20200902141736713-1155907367.jpg)
-
-![Image text](https://gitee.com/taoshihan/go-fly/raw/master/static/images/newintro3.jpg)
-
 
 ### 安装使用
 
@@ -153,9 +141,7 @@
 
    1) 下载地址 
 
-        github: https://github.com/taoshihan1991/go-fly/releases/
-   
-        gitee(国内): https://gitee.com/taoshihan/go-fly/releases
+        github: https://github.com/tonyjude/webchat.git
    
    2) 文件解压缩 
    
@@ -196,7 +182,7 @@
    
    go env -w GOPROXY=https://goproxy.cn,direct
    
-   在任意目录 git clone https://github.com/taoshihan1991/go-fly.git
+   在任意目录 git clone https://github.com/tonyjude/webchat.git
    
    进入go-fly 目录
 
@@ -346,58 +332,3 @@ location /
     	add_header Cache-Control no-cache;
     expires 12h;
 }
-
-#PROXY-END/
-```
-
-
-### 感谢赞助
-
-2021年04月25日 **P7  88.88元
-
-2021年04月19日 **指  1400元(多商户)
-
-2021年04月01日 **科技  66.66元
-
-2021年03月15日 **无畏  8.88元
-
-2021年03月15日 **彬  77元
-
-2021年03月10日 ABC  100元
-
-2021年02月20日 广西***社  1000元
-
-2021年02月19日 **辉  1000元
-
-2021年02月04日 **宏  10.24元
-
-2021年02月03日 pony  188元
-
-2021年01月22日 **~  1000元(多商户)
-
-2021年01月20日 **生  8.88元
-
-2021年01月17日 **白  8.88元
-
-2021年01月13日 **~  500元(多商户)
-
-2020年12月31日 **强  8.88元
-
-2020年12月24日 **松  8.88元
-
-2020年12月23日 **渊  10元
-
-2020年12月16日 **彬  8.8元
-
-2020年11月30日 **宇  88元
-
-### 打赏作者
-
-
-<img src="https://gofly.sopans.com/static/images/alipay.jpg" width="280"  alt="支付宝"/>
-<img src="https://gofly.sopans.com/static/images/weixin.jpg" width="280"  alt="微信"/>
-
-### 版权声明
-
-当前项目是完整功能代码 , 但是仍然仅支持个人演示测试 , 不包含线上使用 . 赞赏并联系作者后可得到作者授权 , 并且可以获取完整专属技术支持,包括安装/部署/bug修改以及后期功能升级 . 
-使用本软件时,请遵守当地法律法规,任何违法用途一切后果请自行承担.
