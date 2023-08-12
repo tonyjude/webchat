@@ -1,0 +1,2 @@
+time="2023-07-24 10:29:46" level=info msg="dial tcp 47.252.0.43:3306: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."
+time="2023-07-24 10:29:46" level=info msg="start server...\r\ngo：http://0.0.0.0:8081"
